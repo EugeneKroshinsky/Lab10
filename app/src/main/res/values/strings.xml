@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string-array name="units_array">
+        <item>Gallons to Liters</item>
+        <item>Liters to Gallons</item>
+        <item>Pints to Liters</item>
+        <item>Liters to Pints</item>
+        <item>Quarts to Liters</item>
+        <item>Liters to Quarts</item>
+    </string-array>
+</resources>
